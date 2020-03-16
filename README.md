@@ -12,9 +12,4 @@ The bot automates all the repetitive and tedious tasks of the game.
 Has many features like auto defending against player attacks or auto gather resources and much more..
 
 
-Extra Notes:
-
-Had another version of the code with comments but ended up losing that version a while back.
-Will be adding documentation and more comments when i got time.
-
 ...more info will be added later.
