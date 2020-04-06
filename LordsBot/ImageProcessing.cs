@@ -33,12 +33,10 @@ namespace LordsBot
                 {
                     if (result.Data[y, x, 0] >= threshold) //Check if its a valid match
                     {
-                        //Point loc = new Point(x, y);
 
+                        //Point loc = new Point(x, y);               
                         //Image2 found within Image1
-                        //Rectangle match = new Rectangle(loc, template.Size);
-                        //imageToShow.Draw(match, new Bgr(Color.Red), 3);
-
+                        
                         pointList.Add(new Point(x,y));
 
                     }
@@ -63,10 +61,10 @@ namespace LordsBot
             Point[] minLocations, maxLocations;
             result.MinMax(out minValues, out maxValues, out minLocations, out maxLocations);
 
-            // You can try different values of the threshold. I guess somewhere between 0.75 and 0.95 would be good.
+            // value of threshold determinds how accurate the image match should be.
             if (maxValues[0] > threshold)
             {
-                // This is a match. Do something with it, for example draw a rectangle around it.
+                // If there is a match. Returns the location of the match.
 
                 return maxLocations[0];
 
@@ -74,8 +72,8 @@ namespace LordsBot
 
            
 
-            //Point pp = new Point(50,50);
-
+            
+            //if there is no match, returns empty point
             return Point.Empty;
         }
 
