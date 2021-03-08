@@ -1,3 +1,4 @@
+Rafael69f-patch-1
 fr20201990@gmail.com/LordsBot
 A Bot program for a game called Lords Mobile.
 
