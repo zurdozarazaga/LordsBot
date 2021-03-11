@@ -1,5 +1,4 @@
-Rafael69f-patch-1
-fr20201990@gmail.com/Lordsmobile
+Rafael69f-patch-1/Lordsmobile
 A Bot program for a game called Lords Mobile.
 
 Lords Mobile is a massive multiplayer real time strategy war game.
@@ -10,7 +9,5 @@ The bot requires the installation of NoxPlayer a Android operating system emulat
 which will allow you to run Android apps on your PC.
 
 The bot automates all the repetitive and tedious tasks of the game.
-Has many features like auto defending against player attacks or auto gather resources and much more..
-
-
-...more info will be added later.
+Has many features like auto defending against player attacks or auto gather resources 
+Fr20201990@gmail.com 
