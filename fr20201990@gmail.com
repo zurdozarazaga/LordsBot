@@ -1,5 +1,5 @@
 Rafael69f-patch-1
-fr20201990@gmail.com/LordsBot
+fr20201990@gmail.com/Lordsmobile
 A Bot program for a game called Lords Mobile.
 
 Lords Mobile is a massive multiplayer real time strategy war game.
